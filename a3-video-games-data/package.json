@@ -1,0 +1,14 @@
+{
+  "name": "@d1d094ed1e90901c/a3-video-games-data",
+  "main": "9f1a6d288e0b8c2a@2145.js",
+  "version": "2145.0.0",
+  "homepage": "https://observablehq.com/@d1d094ed1e90901c/a3-video-games-data",
+  "author": {
+    "name": "Andrea Wan",
+    "url": "https://observablehq.com/@d1d094ed1e90901c"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
